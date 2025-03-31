@@ -13,7 +13,7 @@ Este projeto foi realizado para a disciplina de Projeto de Software do curso de 
 
 # 📌 Diagramas
 ## Diagrama de caso de uso
-<img  src="https://github.com/giuvanna/Trabalho-01-PJ/blob/main/ClassDiagram.png"/>
+<img  src="https://github.com/giuvanna/Trabalho-01-PJ/blob/main/UseCaseDiagram.png"/>
 
 ## Diagrama de classes e pacotes
 <img  src="https://github.com/giuvanna/Trabalho-01-PJ/blob/main/ClassDiagram.png"/>
