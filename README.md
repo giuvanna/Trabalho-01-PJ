@@ -13,10 +13,10 @@ Este projeto foi realizado para a disciplina de Projeto de Software do curso de 
 
 # 📌 Diagramas
 ## Diagrama de caso de uso
-<img width="500px" height="500px" src="https://github.com/giuvanna/Trabalho-01-PJ/blob/main/ClassDiagram.png"/>
+<img  src="https://github.com/giuvanna/Trabalho-01-PJ/blob/main/ClassDiagram.png"/>
 
 ## Diagrama de classes e pacotes
-<img width="500px" height="500px" src="https://github.com/giuvanna/Trabalho-01-PJ/blob/main/ClassDiagram.png"/>
+<img  src="https://github.com/giuvanna/Trabalho-01-PJ/blob/main/ClassDiagram.png"/>
 
 ## Diagrama de componentes
-<img width="500px" height="500px" src="https://github.com/giuvanna/Trabalho-01-PJ/blob/main/ComponentsDiagram"/>
+<img  src="https://github.com/giuvanna/Trabalho-01-PJ/blob/main/ComponentsDiagram.png"/>
