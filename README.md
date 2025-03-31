@@ -1,7 +1,7 @@
 
 # 💻 Sistema de Gestão de Olímpiadas
 
-Este projeto foi realizado para a disciplina de Projeto de Software do curso de Engenharia de Software da Puc Minas. O sistema  deve ser capaz de coordenar os diferentes aspectos do evento. O sistema permite gerenciar as competições, inscrições dos atletas, alocação de locais e controle de resultados.
+Este projeto foi realizado para a disciplina de Projeto de Software do curso de Engenharia de Software da Puc Minas. O sistema  deve ser capaz de coordenar os diferentes aspectos do evento, como gerenciar as competições, inscrições dos atletas, alocação de locais e controle de resultados.
 
 # 📝 Histórias de usuário
 | **ID** | **Título**                  | **Como**  | **Eu quero**  | **Para que** ||
